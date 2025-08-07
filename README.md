@@ -18,27 +18,27 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 ### Etapa 1:
 - AWS EC2 Auto Scaling  
 - Ajustar automaticamente o número de instâncias conforme a demanda  
-- A ferramenta foi aplicada para escalar máquinas virtuais de forma automática nos períodos de maior e menor demanda, evitando custos com instâncias ociosas e garantindo disponibilidade.
+- A ferramenta será aplicada para escalar máquinas virtuais de forma automática nos períodos de maior e menor demanda, garantindo disponibilidade.
 
 ---
 
 ### Etapa 2:
 - AWS Cost Explorer + Budgets  
-- Monitorar gastos e criar alertas de orçamento  
-- Utilizada para analisar os custos dos serviços AWS em tempo real e definir limites mensais com notificações, permitindo maior controle financeiro e identificação de desperdícios.
+- Monitorar gastos e gerar alertas de orçamento  
+- Utilizada para analisar os custos dos serviços AWS em tempo real e definir limites mensais com notificações, permitindo maior controle financeiro.
 
 ---
 
 ### Etapa 3:
 - AWS Systems Manager  
-- Gerenciamento remoto e automatização de tarefas nas VMs  
-- Com o System Manager foi possível aplicar atualizações e scripts remotamente em todas as máquinas virtuais de forma centralizada, reduzindo tempo operacional e riscos de erro humano.
+- Gerenciamento remoto e automatização de tarefas.
+- Com o System Manager será possível aplicar atualizações e scripts remotamente em todas as máquinas virtuais de forma centralizada, reduzindo tempo operacional e riscos de erro humano.
 
 ---
 
 ## Conclusão
 
-A implementação de ferramentas na empresa *Abstergo Industries* teve como esperado redução de custos com infraestrutura, aumento na automação de tarefas e maior controle financeiro, o que aumentará a eficiência e a produtividade da empresa.  
+A implementação dessas ferramentas na empresa *Abstergo Industries* tera como esperado redução de custos com infraestrutura, aumento na automação de tarefas e maior controle financeiro, o que aumentará a eficiência e a produtividade da empresa.  
 Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ---  
