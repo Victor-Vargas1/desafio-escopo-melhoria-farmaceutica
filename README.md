@@ -1,6 +1,6 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
-**Data:** 06/08/2025  
+**Data:** 07/08/2025  
 **Empresa:** Abstergo Industries  
 **Responsável:** Victor Vargas  
 
